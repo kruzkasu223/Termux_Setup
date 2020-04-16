@@ -1,0 +1,5 @@
+Paste This Two Line There:
+
+cowsay -f eyes "Just4@Kru'Z_Kasu_223" | lolcat
+
+toilet -f mono12 -F gay -F border "Kru'Z" | lolcat
