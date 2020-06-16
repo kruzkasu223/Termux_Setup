@@ -3,6 +3,6 @@ Change Colour: (I Use Number 37)
 ~/.termux/colors.sh
 
 
-Change Font: (I Use Number 11)
+Change Font: (I Use Number 15)
 
 ~/.termux/fonts.sh
